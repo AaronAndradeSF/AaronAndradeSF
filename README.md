@@ -2,7 +2,7 @@
 
 <!--
 **AaronAndradeSF/AaronAndradeSF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... my portfolio or folio for short.
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Email, or text.
 - 😄 Pronouns: ... He/Him/Dude/Bruh/Bro
 - ⚡ Fun fact: ... Facts don't feel, so there are no Fun Facts.
--->
+
